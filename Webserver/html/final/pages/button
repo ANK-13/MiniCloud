@@ -1,0 +1,5 @@
+@ = shutdown
+$ = restart
+^ = start
+& = delete
+* = IP
